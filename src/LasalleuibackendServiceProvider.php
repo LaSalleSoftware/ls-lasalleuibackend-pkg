@@ -30,7 +30,7 @@ use Illuminate\Support\ServiceProvider;
  *
  * @package Lasallesoftware\Lasalleuibackend
  */
-class LasalleuifrontendServiceProvider extends ServiceProvider
+class LasalleuibackendServiceProvider extends ServiceProvider
 {
     /**
      * Bootstrap any package services.
@@ -54,6 +54,6 @@ class LasalleuifrontendServiceProvider extends ServiceProvider
      */
     protected function loadViews()
     {
-        $this->loadViewsFrom(__DIR__.'/../views', 'lasallesoftwarelasalleuibackend');
+        $this->loadViewsFrom(__DIR__.'/../views', 'lasalleuibackend');
     }
 }
