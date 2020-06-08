@@ -29,7 +29,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Lasallesoftware\\Lasalleuifrontend\\LasalleuibackendServiceProvider"
+                "Lasallesoftware\\Lasalleuibackend\\LasalleuibackendServiceProvider"
             ]
         }
     },
