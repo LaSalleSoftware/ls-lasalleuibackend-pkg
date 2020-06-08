@@ -1,4 +1,4 @@
-@extends('lasallesoftwarelibrarybackend::basic.layouts.app')
+@extends('lasalleuibackend::basic.layouts.app')
 
 @section('content')
 <div class="container">
