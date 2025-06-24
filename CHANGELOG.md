@@ -1,6 +1,7 @@
 # CHANGE LOG
 
-## VERSION 2.0.3 (coming!)
+## VERSION 3.0 (June 22, 2025)
+* [v3.0 issues](https://github.com/LaSalleSoftware/ls-lasalleuibackend-pkg/milestone/5?closed=1)
 
 ## VERSION 2.1.0 (March 25, 2022)
 * [v2.1.0 issues](https://github.com/LaSalleSoftware/ls-lasalleuibackend-pkg/milestone/4?closed=1)
